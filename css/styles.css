@@ -1,0 +1,159 @@
+/***************CONTAINERS***************/
+.topcontainer {
+  background-color: #F67280;
+  padding-top: 30px;
+  position: relative;
+}
+
+.middlecontainer {
+margin: 70px auto;
+}
+
+.bottomcontainer {
+background-color: #66BFBF;
+padding: 50px 0 20px 0;
+}
+
+/***************CLASSES***************/
+.btn {
+  background: #11ccd4;
+  background-image: -webkit-linear-gradient(top, #11ccd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11ccd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11ccd4, #11999e);
+  background-image: -o-linear-gradient(top, #11ccd4, #11999e);
+  background-image: linear-gradient(to bottom, #11ccd4, #11999e);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: 'Noto Serif', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contactmsg{
+  width: 35%;
+  margin: 40px auto;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.85rem;
+  padding: 20px 0;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 350px;
+  top: 145px;
+}
+
+.cloud2 {
+  left: 350px;
+  position: absolute;
+  top: 210px;
+}
+
+.intro{
+  margin: 40px auto;
+  width: 50%;
+
+}
+
+.mountain {}
+
+.pro {
+  text-decoration: underline;
+}
+.profile{
+
+}
+.programming{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.skill-row1{
+  line-height: 2;
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.skill-row2{
+  line-height: 2;
+  margin: auto;
+  text-align: left;
+  width: 50%;
+}
+.sebimg{
+
+}
+
+.suitcase{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+/***************SELECTORS***************/
+
+a{
+  color: #11999E;
+  font-family: 'Noto Serif', serif;
+  margin: 10px 20px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+body {
+  background-color: #F5F5F5;
+  font-color: 40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0px;
+  text-align: center;
+}
+
+div {
+  background-color: #F5F5F5;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  margin: 20px auto 0 auto;
+
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Noto Serif', serif;
+  font-size: 2.5rem;
+  font-weight: lighter;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Noto Serif', serif;
+}
+
+hr{
+  border: dotted lightgrey 6px;
+  border-bottom: none;
+  margin: 65px auto;
+  width: 10%;
+
+}
